@@ -30,6 +30,12 @@
 - 按指定的行数生成；
 - 生成指定个数的文件；
 
+## athena/parquet_s3_size_files.py
+
+- 在 S3 上生成 parquet 文件；
+- 按指定数据量大小（bytes）生成；
+- 生成指定个数的文件；
+
 # DynamoDB
 
 ## dynamodb/data_dynamodb_items.py
